@@ -1,5 +1,5 @@
 <!--
-**wisnuwm/wisnuwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arifnurhasan/arifnurhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,9 +29,9 @@ I have a unique hobby that is PROBLEM SOLVING, and another hobby is sports.
 
 ## 📈Stats
 <p align="left">
-<a href="https://github.com/wisnuwm">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnuwm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnuwm&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/arifnurhasan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifnurhasan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arifnurhasan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -90,8 +90,8 @@ I have a unique hobby that is PROBLEM SOLVING, and another hobby is sports.
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://www.linkedin.com/in/arifnurhasan" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.instagram.com/arnuh4/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
 <a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
@@ -99,5 +99,5 @@ I have a unique hobby that is PROBLEM SOLVING, and another hobby is sports.
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: arnuh4@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
