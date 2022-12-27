@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋 , I'm Arif!
 I once worked as a Full-stack Web Developer, Graphic Designer. and I have the ability in Quality Assurance Engineer.
 
-I have a unique hobby that is PROBLEM SOLVING.
-And another hobby is sports.
+I have a unique hobby that is PROBLEM SOLVING, and another hobby is sports.
 
 I have the knowledge to:
 - Create a web using the CodeIgniter framework
