@@ -26,11 +26,11 @@ I have the knowledge to:
 
 # I have the knowledge to:
 <!--ts-->
-   * [Create a web using the CodeIgniter framework]
-   * [Create designs using Adobe Photoshop and Adobe Illustrator]
-   * [Create web automation using Cucumber Selenium Java, Robot Framework and Cypress]
-   * [Build mobile automation (Android and iOS) using Cucumber Appium Java and Robot Framework]
-   * [API testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured]
+   * Create a web using the CodeIgniter framework
+   * Create designs using Adobe Photoshop and Adobe Illustrator
+   * Create web automation using Cucumber Selenium Java, Robot Framework and Cypress
+   * Build mobile automation (Android and iOS) using Cucumber Appium Java and Robot Framework
+   * API testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured
 <!--te-->
  
 
