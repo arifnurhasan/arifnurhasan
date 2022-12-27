@@ -24,16 +24,13 @@ I have the knowledge to:
 - Build mobile automation (Android and iOS) using Cucumber Appium Java and Robot Framework
 - API testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured
 
-# Table of contents
+# I have the knowledge to:
 <!--ts-->
-   * [Stats](#stats)
-   * [Tools](#tools)
-   * [Bincang QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
-   * [Connect](#connect)
-   * [Contact me](#contact-me)
+   * [Create a web using the CodeIgniter framework]
+   * [Create designs using Adobe Photoshop and Adobe Illustrator]
+   * [Create web automation using Cucumber Selenium Java, Robot Framework and Cypress]
+   * [Build mobile automation (Android and iOS) using Cucumber Appium Java and Robot Framework]
+   * [API testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured]
 <!--te-->
  
 
