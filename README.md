@@ -17,13 +17,6 @@ I once worked as a Full-stack Web Developer, Graphic Designer. and I have the ab
 
 I have a unique hobby that is PROBLEM SOLVING, and another hobby is sports.
 
-I have the knowledge to:
-- Create a web using the CodeIgniter framework
-- Create designs using Adobe Photoshop and Adobe Illustrator
-- Create web automation using Cucumber Selenium Java, Robot Framework and Cypress
-- Build mobile automation (Android and iOS) using Cucumber Appium Java and Robot Framework
-- API testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured
-
 # I have the knowledge to:
 <!--ts-->
    * Create a web using the CodeIgniter framework
